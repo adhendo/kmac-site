@@ -12,7 +12,7 @@ const Home = () => (
 	<div className={styles.container}>
 		<Head>
 			<title>Kevin Maclachlan</title>
-			<link rel="icon" href="/favicon.ico" />
+			<link rel="icon" href="../public/favicon.png" />
 			<style>
 				@import
 				url('https://fonts.googleapis.com/css?family=Raleway|Spartan&display=swap');
