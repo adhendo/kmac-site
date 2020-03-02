@@ -39,7 +39,7 @@ const Home = () => (
 
 		<main className={styles.mobile}>
 			<div className={styles.grid}>
-				<div>
+				<div className={styles.leftGrid}>
 					<div className={styles.linkPack}>
 						<a
 							className={styles.link__link}
