@@ -12,6 +12,7 @@ const Home = () => (
 	<div className={styles.container}>
 		<Head>
 			<title>Kevin Maclachlan</title>
+			<link rel="icon" type="image/png" href="/apple-icon.png" />
 			<style>
 				@import
 				url('https://fonts.googleapis.com/css?family=Raleway|Spartan&display=swap');
