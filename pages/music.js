@@ -45,7 +45,8 @@ export default function Music() {
 										height="450"
 										className={styles.playlist__frame}
 										sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-										src="https://embed.music.apple.com/us/album/james-down-feat-2012-bid-adieu-synead-single/1496920334"></iframe>
+										src="https://embed.music.apple.com/us/album/pretty-ugly/1496765704"></iframe>
+										
 								</div>
 							</div>
 							<div
