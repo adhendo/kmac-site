@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react";
 import styles from "../styles/main.module.css";
 
 const vids = [
-	"https://www.youtube.com/embed/vDKWJaC1lNs&t=8s",
+	"https://www.youtube.com/embed/vDKWJaC1lNs",
 	"https://www.youtube.com/embed/Maob77XVUqc",
 	"https://www.youtube.com/embed/aizMgmcodJ8",
 	"https://www.youtube.com/embed/9-mgZ66JLMY"

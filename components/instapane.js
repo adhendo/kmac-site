@@ -3,6 +3,8 @@ import InstagramEmbed from "react-instagram-embed";
 import styles from "../styles/main.module.css";
 //Puppeteer grab some stuff??-->>
 const links = [
+	"https://instagr.am/p/B9PcutGF07k/",
+	"https://instagr.am/p/B9M_mzDF2wb/",
 	"https://instagr.am/p/B9Ffv9nlRPo/",
 	"https://instagr.am/p/B9CpyB4BuZL/",
 	"https://instagr.am/p/B9AHyGBFRnI/",
